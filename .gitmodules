@@ -1,9 +1,12 @@
 [submodule "risk-analysis-frontend"]
 	path = risk-analysis-frontend
 	url = https://github.com/stakeunlimited/risk-analysis-frontend
+        branch = main
 [submodule "risk-analysis-backend"]
 	path = risk-analysis-backend
 	url = https://github.com/stakeunlimited/risk-analysis-backend
+        branch = main
 [submodule "risk-analysis-volatility"]
 	path = risk-analysis-volatility
 	url = https://github.com/stakeunlimited/risk-analysis-volatility
+        branch = main
